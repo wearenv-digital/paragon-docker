@@ -47,7 +47,6 @@ services:
   nginx:
     container_name: nginx
     image: nginx:1.22-alpine
-    init: true
     ports:
       - 80:80
       # - 443:443
