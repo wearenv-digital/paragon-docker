@@ -1,0 +1,11 @@
+version: '3'
+
+volumes:
+  mysql-data:
+    
+services:
+  web-app:
+    container_name: paragon_web
+    build: .
+    env_file:
+      - ./.env
