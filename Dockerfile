@@ -11,7 +11,7 @@ RUN if [ "$NODE_ENV" = "development" ]; \
 	else npm install --only=production; \
 	fi
 
-COPY . ./app
+COPY . ./
 ENV PORT 3030
 
 EXPOSE $PORT

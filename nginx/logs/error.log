@@ -181,3 +181,169 @@
 2022/10/08 16:33:20 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
 2022/10/08 16:34:20 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
 2022/10/08 16:35:20 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2022/10/08 17:11:53 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:11:54 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:11:55 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:11:56 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:11:57 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:11:59 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:12:02 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:12:09 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:12:22 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:12:48 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:13:40 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:14:40 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:15:30 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:15:31 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:15:31 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:15:32 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:15:33 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:15:35 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:15:39 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:15:46 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:15:59 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:16:25 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:17:16 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:18:17 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:19:17 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:20:22 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:20:23 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:20:23 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:20:24 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:20:25 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:20:27 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:20:31 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:20:38 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:20:51 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:21:17 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:23:42 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:23:42 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:23:43 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:23:44 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:23:45 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:23:47 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:23:51 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:23:58 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:24:11 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:24:37 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:25:27 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:25:28 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:25:28 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:25:29 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:25:30 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:25:32 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:25:36 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:25:43 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:25:56 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:26:23 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:27:14 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:28:15 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:29:15 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:30:15 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:31:16 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:32:16 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:33:16 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:34:17 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:35:17 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:36:17 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:37:18 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:38:18 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:39:18 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:40:19 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:41:19 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:42:20 [emerg] 1#1: unknown "upstream_node" variable
+2022/10/08 17:43:26 [error] 24#24: *2 no resolver defined to resolve node-app, client: 192.168.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2022/10/08 17:44:08 [error] 32#32: *1 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2022/10/08 17:44:09 [error] 32#32: *1 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2022/10/08 17:44:09 [error] 32#32: *1 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2022/10/08 17:44:10 [error] 32#32: *1 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2022/10/08 17:44:13 [error] 32#32: *3 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:45:40 [error] 32#32: *5 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:45:41 [error] 32#32: *5 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:45:41 [error] 32#32: *5 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:45:41 [error] 32#32: *5 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:45:41 [error] 32#32: *5 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:45:42 [error] 32#32: *5 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:45:42 [error] 32#32: *5 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:45:42 [error] 32#32: *5 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:45:42 [error] 32#32: *5 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:45:42 [error] 32#32: *5 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:45:42 [error] 32#32: *5 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:45:43 [error] 32#32: *5 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:45:43 [error] 32#32: *5 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:45:43 [error] 32#32: *5 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:45:43 [error] 32#32: *5 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:45:43 [error] 32#32: *5 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:45:43 [error] 32#32: *5 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:45:43 [error] 32#32: *5 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:45:43 [error] 32#32: *5 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:45:44 [error] 32#32: *5 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:45:44 [error] 32#32: *5 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:45:44 [error] 32#32: *5 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:45:44 [error] 32#32: *5 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:45:44 [error] 32#32: *5 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:45:51 [error] 32#32: *5 no resolver defined to resolve node-app, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:47:04 [error] 31#31: *1 no resolver defined to resolve node-app, client: 192.168.32.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:11 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:13 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:15 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:45 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:45 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:46 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:46 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:46 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:46 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:46 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:46 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:46 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:46 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:47 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:47 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:47 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:47 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:47 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:47 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:47 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:47 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:47 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:48 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:48 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:48 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:48 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:48 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:48 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:48 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:48 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:48 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:49 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:49 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:49 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:49 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:49 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:49 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:49 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:50 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:50 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:50 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:50 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:50 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:50 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:50 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:50 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:51 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:51 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:51 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:51 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:51 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:51 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:51 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:52 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:52 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:52 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:57:52 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 17:58:57 [error] 33#33: *1 no resolver defined to resolve node-app, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/10/08 18:07:39 [error] 32#32: *1 no resolver defined to resolve node-app, client: 192.168.80.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2022/10/08 18:08:20 [error] 32#32: *1 no resolver defined to resolve node-app, client: 192.168.80.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2022/10/08 18:08:20 [error] 32#32: *1 no resolver defined to resolve node-app, client: 192.168.80.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2022/10/08 18:12:34 [error] 32#32: *4 no resolver defined to resolve node-app, client: 192.168.80.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2022/10/08 18:12:45 [error] 32#32: *4 no resolver defined to resolve node-app, client: 192.168.80.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
