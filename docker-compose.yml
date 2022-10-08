@@ -3,7 +3,7 @@ version: "3"
 
 services:
   node-app:
-    container_name: paragon_node
+    container_name: node-app
     build: 
       context: .
       args:
@@ -13,12 +13,7 @@ services:
     command: npm run dev
     networks:
       - app-network
-    # ports:
-      # - "3030:3030"
-    volumes:
-      - ./:/app:ro
-      - /app/node_modules
-  
+
 
   db:
     container_name: paragon_db
