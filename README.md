@@ -12,9 +12,7 @@ prod:
 
 
 to rebuild image
-append `--build` to end of specified command
-
+`docker-compose build`
 when it comes to ssl and https
-- ensure the LE command is run from the docker-compose file.
-- un comment out the `conf` bind mount
-- double check the need of exposing `443`
+
+
