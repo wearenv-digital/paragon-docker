@@ -1,5 +1,5 @@
 const express = require('express');
-require('dotenv').config('../config');
+require('dotenv').config();
 const bodyParser = require('body-parser');
 const { json } = require('body-parser');
 const path = require('path');
