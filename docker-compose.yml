@@ -67,7 +67,7 @@ volumes:
     driver: local
     driver_opts:
       type: none
-      device: /home/ubuntu/paragon-docker/src
+      device: /home/ubuntu/paragon-docker/src/views
       o: bind
   mysql-data:
 
