@@ -1,4 +1,4 @@
-version: "3"
+version: '3.3'
 
 
 services:
@@ -13,6 +13,8 @@ services:
     command: npm run dev
     networks:
       - app-network
+
+
 
   webserver:
       container_name: webserver
@@ -29,6 +31,25 @@ services:
         - ./nginx/logs:/var/log/nginx
         # - web-root:/var/www/html
 
+
+
+  db:
+    build: 
+      context: ./src/data
+    restart: unless-stopped
+    environment:
+      MYSQL_DATABASE: 'db'
+      MYSQL_USER: 'user'
+      MYSQL_PASSWORD: 'password'
+      MYSQL_ROOT_PASSWORD: 'password'
+    command: --init-file ./src/db_init.sql
+    ports:
+      - '3306:3306'
+    expose:
+      - '3306'
+    volumes:
+      - db-data:/var/lib/mysql
+        
   # db:
   #   container_name: paragon_db
   #   image: mysql:8.0
@@ -63,7 +84,7 @@ volumes:
 #       type: none
 #       device: /home/ubuntu/paragon-docker/src/
 #       o: bind
-  mysql-data:
+  db-data:
 
 networks:
   app-network:

@@ -4,6 +4,7 @@ const bodyParser = require('body-parser');
 const { json } = require('body-parser');
 const path = require('path');
 const nodemailer = require('nodemailer');
+const db = require('../config/db');
 // const ejs = require('ejs');
 // var mysqlConf = require('mysql');
 
@@ -18,7 +19,9 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 app.use(express.static('./src/public/'));
 app.use('/public', express.static('src/public/'));
-app.use(require('../controller/routes/routes'));
+app.use(require('../routes/routes'));
+
+// app.get('/database', db.getAll);
 
 var server = app.listen;
 
